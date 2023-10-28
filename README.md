@@ -157,7 +157,7 @@ admin.site.register(Estudiante)
 
 ```
 
-Ahora en consolo levantamos el servidor de nuestro proyecto y visitamos la ruta  http://127.0.0.1:8000/admin
+Ahora en consola levantamos el servidor de nuestro proyecto y visitamos la ruta  http://127.0.0.1:8000/admin
 donde ahora podremos crear datos para nuestra tabla Estudiante
 
 Ingresa a la tabla de Estudiante
